@@ -1,0 +1,1 @@
+{"version":3,"sources":["site.scss"],"names":[],"mappings":"AAEA,KACI,WAAA,QAGJ,GACI,MAAA,KACA,UAAA","file":"../../site.min.css","sourcesContent":["$color : #333;\r\n\r\nbody {\r\n    background: #e0e0e0;\r\n}\r\n\r\nH1 {\r\n    color: $color;\r\n    font-size: 50px;\r\n}\r\n"]}
